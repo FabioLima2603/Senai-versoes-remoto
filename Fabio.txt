@@ -1,0 +1,31 @@
+cd C:\Users\Front-End_4\Desktop\_git\senai-versoes-colaboracoes
+git init
+git config --global user.name "FE4-Fabio"
+git config --global user.email "fabio.lphenrique@gmail.com"
+git status
+dir
+dir /a
+git add versoes.txt
+git status
+git commit -m "criei o arquivo versoes.txt"
+git log
+git status
+git add .
+git commit -m "escrevi pela 1 vez no meu arquivo"
+git log
+ git remote add origin 
+C:\Users\Front-End_4\Desktop\_git\senai-versoes-colaboracoes>
+git remote add origin https://github.com/FabioLima2603/Senai-versoes-remoto.git
+git remote add origin git@github.com:FabioLima2603/Senai-versoes-remoto.git
+git remote -v
+git push -u origin master
+g
+git show
+git add
+git add .
+git commit -m "eu editei o arquivo versoes"
+git log
+git push -u origin master
+git branch
+doskey /h
+doskey /h >Fabio.txt
